@@ -113,6 +113,10 @@ h2 { margin: 0; font-size: 17px; letter-spacing: -.02em; }
 @media (max-width: 580px) {
   .announcement { text-align:center; font-size:10px; }
   .announce-tag { display:none; }
+  .header-inner { gap: 10px; }
+  .logo { gap: 8px; font-size: 16px; letter-spacing: -.04em; }
+  .logo-mark { width: 34px; height: 34px; flex-basis: 34px; }
+  .account { display: none; }
   .page { width:calc(100% - 32px); padding-top:48px; }
   .maps-grid,.stats-grid { grid-template-columns:1fr; }
   .map-card { min-height:210px; }
