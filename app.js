@@ -13,7 +13,7 @@ function header() {
     <div class="announcement"><span class="announce-tag">⌁ Announcement</span><span>The archives are live. <b>Explore the new season records.</b></span></div>
     <header class="site-header">
       <div class="header-inner">
-        <a class="logo" href="#/maps" aria-label="Murcia Servers home"><span class="logo-mark"><img src="assets/murcia-servers-logo.gif" alt="" width="42" height="42"></span>Murcia Servers</a>
+        <a class="logo" href="#/maps" aria-label="Murcia Servers home"><span class="logo-mark"><img src="assets/murcia-servers-logo-v2.gif" alt="" width="42" height="42"></span>Murcia Servers</a>
         <nav class="nav" id="primaryNav" aria-label="Primary">
           <a href="#/home">Home</a><a href="#/vip">VIP</a><a href="#/servers">Live Servers</a>
           <div class="menu-wrap"><button class="menu-trigger" aria-expanded="false">Leaderboards</button><div class="dropdown"><a href="#/records">Global records</a><a href="#/weekly">Weekly standings</a><a href="#/players">Player stats</a></div></div>
